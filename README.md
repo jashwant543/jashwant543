@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hey!!👋 Jashwant
 
-<!--
-**jashwant543/jashwant543** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- - 🔭 I’m currently working on -->
+- 🌱 I’m currently learning Web Development,Highly skilled in AR
+- 👯 I’m looking to collaborate on Full stack  and AR Projects
+- 📫 How to reach me: jashwantpdaj87@gmail.com
+- 😄 Pronouns: He/Him
 
-Here are some ideas to get you started:
+### Projects
+To Know about my projects scan the QR
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![frame](https://user-images.githubusercontent.com/70618404/211996095-5fd931b2-6fdd-43f5-a929-a9ef6ad4a838.png)
