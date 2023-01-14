@@ -5,6 +5,7 @@
 - 👯 I’m looking to collaborate on Full stack  and AR Projects
 - 📫 How to reach me: jashwantpdaj87@gmail.com
 - 😄 Pronouns: He/Him
+- Portfolio Link: https://dynamic-selkie-c4a3b2.netlify.app/
 
 ### Projects
 To Know about my projects scan the QR
