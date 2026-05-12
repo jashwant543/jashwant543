@@ -3,7 +3,6 @@
 <!-- - 🔭 I’m currently working on -->
 - 🌱 I’m currently learning Web Development,Highly skilled in AR
 - 👯 I’m looking to collaborate on Full stack  and AR Projects
-- 📫 How to reach me: jashwantpdaj87@gmail.com
 - 😄 Pronouns: He/Him
 - Portfolio Link: https://jashwantkumar.netlify.app/
 ### Projects
